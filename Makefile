@@ -1,6 +1,8 @@
 # Project Name
 TARGET = daisy-effect-cpp
 
+USE_DAISYSP_LGPL = 1
+
 # Sources
 CPP_SOURCES = src/main.cpp
 
